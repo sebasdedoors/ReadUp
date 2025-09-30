@@ -204,8 +204,8 @@ public class ReadUp {
                         rs.getInt("ID_Libro"),
                         rs.getString("Titulo_Libro"),
                         rs.getString("Autor_Libro"),
-                        rs.getString("Año_Publicaciòn_Libro"),
-                        rs.getString("Sinopsis_Libroo"),
+                        rs.getString("Año_Libro"),
+                        rs.getString("Sinopsis_Libro"),
                         rs.getInt("ISBN_Libro")
                     });
                 }
